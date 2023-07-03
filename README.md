@@ -7,11 +7,7 @@ Temos um software que quando executado é presente 24/7 no seu computador, e cri
 
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------
 <h1>Requisitos</h1>
-  pip install watchdog
-
-
-  pip intall win10toast
-  
-  pip install psutil
-  
+  pip install watchdog<br>
+  pip intall win10toast<br>
+  pip install psutil<br>
   pip install tkinter
