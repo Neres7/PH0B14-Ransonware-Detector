@@ -11,5 +11,7 @@ Temos um software que quando executado é presente 24/7 no seu computador, e cri
 
 
   pip intall win10toast
+  
   pip install psutil
+  
   pip install tkinter
